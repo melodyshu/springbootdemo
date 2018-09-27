@@ -1,0 +1,19 @@
+server:
+  port: 8882
+  
+student:
+  #name: 张三
+  email: 23234@qq.com
+  age: 24
+  gender: true
+  birthday: 2018/02/13
+  location: {province: 湖北,city: 武汉,zone: 洪山区}
+  hobbies:
+    - 篮球
+    - 足球
+  skills:
+    - 编程
+    - 打游戏
+  pet:
+    nickName: 旺财
+    strain: 萨摩
