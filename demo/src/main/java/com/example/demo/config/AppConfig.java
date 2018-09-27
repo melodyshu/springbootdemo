@@ -4,7 +4,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 import com.example.demo.services.StudentService;
-
+//测试
 @Configuration
 public class AppConfig {
 	@Bean
